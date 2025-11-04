@@ -1,0 +1,4 @@
+pygame
+psutil
+pillow
+pip install -r requirements.txt

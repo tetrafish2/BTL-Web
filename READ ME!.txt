@@ -1,0 +1,6 @@
+# BTL OS
+The BTL system is a Tkinter-based system and requires Python 3.11 or similar versions.
+Nothing inside it interferes with your computer’s system; the things you do or the buttons you press inside BTL may teleport you to BTL’s easter egg dimension ;)
+Presented by the BTL Xaef team, have fun with BTL.
+Version : Updated - v4.2
+To run it, double-click the "BTLv4.2.py" file.
